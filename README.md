@@ -11,7 +11,7 @@
 <b>Modelos: </b>GaussianNB, DecisionTreeClassifier, RandomForestClassifier
 
 
-<a href="https://colab.research.google.com/drive/1QDMRTd7t3CtcohJL6yTBBUpNpZ6lMpvp?usp=share_link"> Codigo </a>
+<a href="https://github.com/alenunez/Detenci-n-del-grado-de-acne-a-trav-s-de-imagenes/blob/main/Presentacion_1.ipynb"> Codigo </a>
 
 <a href="https://github.com/alenunez/Detenci-n-del-grado-de-acne-a-trav-s-de-imagenes/blob/main/Proyecto%20Detecci%C3%B3n%20de%20acn%C3%A9%20con%20im%C3%A1genes_IA.pptx.pdf"> Diapositivas </a>
 
