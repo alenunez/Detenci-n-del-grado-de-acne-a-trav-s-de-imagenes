@@ -12,3 +12,6 @@
 
 <a href="https://colab.research.google.com/drive/1QDMRTd7t3CtcohJL6yTBBUpNpZ6lMpvp?usp=share_link"> Codigo </a>
 
+<a href="https://docs.google.com/presentation/d/15YSfv7O-ONB0vAS5le9j1dvJo4uIKa1k/edit?usp=sharing&ouid=100936546032588409007&rtpof=true&sd=true"> Diapositivas </a>
+
+
