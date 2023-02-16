@@ -7,3 +7,8 @@
 <b>Objetivo: </b>Hallar el nivel del grado de acne de una persona a travez de su foto
 
 <a href="https://www.kaggle.com/datasets/rutviklathiyateksun/acne-grading-classificationdataset"> Dataset </a>
+
+<b>Modelos: </b>
+
+<a href="https://colab.research.google.com/drive/1QDMRTd7t3CtcohJL6yTBBUpNpZ6lMpvp?usp=share_link"> Codigo </a>
+
