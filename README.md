@@ -8,7 +8,9 @@
 
 <a href="https://www.kaggle.com/datasets/rutviklathiyateksun/acne-grading-classificationdataset"> Dataset </a>
 
-<b>Modelos: </b>
+<b>Modelos:GaussianNB, DecisionTreeClassifier, RandomForestClassifier
+
+ </b>
 
 <a href="https://colab.research.google.com/drive/1QDMRTd7t3CtcohJL6yTBBUpNpZ6lMpvp?usp=share_link"> Codigo </a>
 
