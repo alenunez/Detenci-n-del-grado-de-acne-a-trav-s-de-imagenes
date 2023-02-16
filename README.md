@@ -22,6 +22,8 @@
 <a href="https://github.com/alenunez/Detenci-n-del-grado-de-acne-a-trav-s-de-imagenes
 "> Enlace repositorio </a>
 
+<a href="https://www.youtube.com/watch?v=0G08SmyNh-8"> Video </a>
+
 
 
 
