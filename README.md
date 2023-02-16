@@ -1,1 +1,1 @@
-# Detenci-n-del-grado-de-acne-a-trav-s-de-imagenes
+# Detencion-del-grado-de-acne-a-traves-de-imagenes
