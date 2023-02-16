@@ -12,6 +12,6 @@
 
 <a href="https://colab.research.google.com/drive/1QDMRTd7t3CtcohJL6yTBBUpNpZ6lMpvp?usp=share_link"> Codigo </a>
 
-<a href="https://docs.google.com/presentation/d/15YSfv7O-ONB0vAS5le9j1dvJo4uIKa1k/edit?usp=sharing&ouid=100936546032588409007&rtpof=true&sd=true"> Diapositivas </a>
+<a href="https://github.com/alenunez/Detenci-n-del-grado-de-acne-a-trav-s-de-imagenes/blob/main/Proyecto%20Detecci%C3%B3n%20de%20acn%C3%A9%20con%20im%C3%A1genes_IA.pptx.pdf"> Diapositivas </a>
 
 
